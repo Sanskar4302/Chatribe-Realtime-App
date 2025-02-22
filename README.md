@@ -2,7 +2,7 @@
 
 Chatribe is a feature-rich real-time chat application designed using the MERN stack. This application provides seamless and secure communication with a modern and intuitive interface.
 
-﻿# Live Demo 
+﻿ Live Demo 
 
  Link: https://chatribe-realtime-app.onrender.com
 
